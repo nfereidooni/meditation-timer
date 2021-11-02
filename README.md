@@ -1,4 +1,4 @@
-# Meditation  Timer
+# Meditation Timer
 
 ## Table of Contents
 - [Description](#description)
@@ -37,6 +37,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Questions:
-For questions about this project, please visit my Website:
+For questions about this project, please visit my website:
 - [Code by Niki](https://www.codebyniki.com)
 - [GitHub Profile](https://github.com/nfereidooni)
