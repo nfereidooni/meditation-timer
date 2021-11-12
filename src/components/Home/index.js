@@ -6,7 +6,7 @@ function Home(props) {
 
 
     return (
-        <p>test</p>
+        <p>test home</p>
     );
   }
   

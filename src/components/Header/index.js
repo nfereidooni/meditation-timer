@@ -7,7 +7,13 @@ function Header(props) {
 
 
   return (
-    <p>test</p>
+    <nav class="main-nav">
+        <a href="index.html" class="logo">Simple Meditation Timer</a>
+        <ul class="navlinks">
+          <NavLink to="/">Home</NavLink>
+          <NavLink to="/about">About</NavLink>
+        </ul>
+      </nav>
   );
 }
 

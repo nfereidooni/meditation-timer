@@ -6,7 +6,7 @@ function About(props) {
 
 
     return (
-      <p>test</p>
+      <p>test about</p>
     );
   }
   
