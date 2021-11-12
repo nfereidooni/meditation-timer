@@ -1,9 +1,10 @@
 import React from "react";
 import "./style.css";
-import { NavLink } from "react-router-dom";
+import moment from "moment";
 
 function Home(props) {
 
+    console.log(moment("2020-09-04"))
 
     return (
         <p>test home</p>
