@@ -10,8 +10,12 @@ function Header(props) {
     <nav class="main-nav">
         <a href="index.html" class="logo">Simple Meditation Timer</a>
         <ul class="navlinks">
-          <NavLink to="/">Home</NavLink>
-          <NavLink to="/about">About</NavLink>
+          <li>
+            <NavLink to="/">Home</NavLink>
+          </li>
+          <li>
+            <NavLink to="/about">About</NavLink>
+          </li>
         </ul>
       </nav>
   );

@@ -1,4 +1,4 @@
-# Meditation Timer
+# Simple Meditation Timer
 
 ## Table of Contents
 - [Description](#description)

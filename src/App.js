@@ -8,7 +8,7 @@ function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <div>
-        <div>
+        <div className="bg">
           <Header />
           <Routes>
             <Route exact path="/" element={<Home />} />

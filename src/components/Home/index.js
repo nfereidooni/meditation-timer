@@ -7,7 +7,9 @@ function Home(props) {
     console.log(moment("2020-09-04"))
 
     return (
-        <p>test home</p>
+        
+            <p>test home</p>
+
     );
   }
   

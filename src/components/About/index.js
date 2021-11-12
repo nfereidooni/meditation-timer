@@ -5,7 +5,9 @@ function About(props) {
 
 
     return (
-      <p>test about</p>
+      <div className="bg">
+        <p>test about</p>
+      </div>
     );
   }
   
